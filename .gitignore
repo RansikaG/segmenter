@@ -122,6 +122,7 @@ pythonenv*
 .spyderproject
 .spyproject
 
+
 # Rope project settings
 .ropeproject
 
@@ -142,5 +143,7 @@ dmypy.json
 # profiling data
 .prof
 
+.idea/
+PretrainedModels/
 # End of https://www.toptal.com/developers/gitignore/api/python
 .idea/
